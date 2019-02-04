@@ -13,6 +13,7 @@ Solo las contraseñas guardadas de la pc ,puedes guardar el programa en una USB 
 hasta finalizar
 ```
 ### Código Powershell
+- Autor : https://github.com/H3LL0WORLD
 ```
 Function Get-WLAN_Profiles {
 	param (
