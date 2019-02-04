@@ -1,8 +1,10 @@
 # Wi-Fi
 
+![](https://1.bp.blogspot.com/-NZFmbAF5_6U/WfMx3j17FEI/AAAAAAAAId4/uDLKER2aeV8mPgUVfuawP3_5adAj5kg5gCLcBGAs/s1600/Screenshot_4.png)
+
 El programa esta desarrollado en bat y en powershell su objetivo es extraer las contraseña he información de red que tiene un pc ya sea manualmente o automáticamente
 Solo las contraseñas guardadas de la pc ,puedes guardar el programa en una USB y ejecutarlo de ahí mismo. o usar diversas técnicas de ingeniería social para poder obtener las claves de tus victimas.. .
-
+https://www.lpericena.tk/2017/10/wiffi.html
 - Pasos a seguir
 ```
 1.-Descargar el programa
