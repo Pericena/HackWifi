@@ -137,12 +137,11 @@ Function Get-WLAN_Profiles {
 * Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
-- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
-- 📸 pinterest        https://es.pinterest.com/lushiopericena/
 - 🐤 twitter             https://twitter.com/LPericena
 
 
 * Gracias
 
 ---
-Por [Pericena](https://github.com/Pericena)
+Por [Pericena](https://github.com/Pericena) Donación paypal
+https://www.paypal.com/paypalme/lpericena
