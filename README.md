@@ -2,17 +2,17 @@
 
 ![](https://1.bp.blogspot.com/-NZFmbAF5_6U/WfMx3j17FEI/AAAAAAAAId4/uDLKER2aeV8mPgUVfuawP3_5adAj5kg5gCLcBGAs/s1600/Screenshot_4.png)
 
-El programa esta desarrollado en bat y en powershell su objetivo es extraer las contraseña he información de red que tiene un pc ya sea manualmente o automáticamente
-Solo las contraseñas guardadas de la pc ,puedes guardar el programa en una USB y ejecutarlo de ahí mismo. o usar diversas técnicas de ingeniería social para poder obtener las claves de tus victimas.. .
+The program is developed using Batch and PowerShell, designed to extract passwords and network information stored on a computer, either manually or automatically. It specifically targets passwords saved on the system. The program can be stored on a USB drive and executed directly from it, or social engineering techniques can be employed to retrieve the credentials from targeted users...
+
 - https://lpericena.blogspot.com/2017/10/wiffi.html
 - Pasos a seguir
 ```
-1.-Descargar el programa
-2.-ejecutamos el programa
-3.-opción 1 información de la red inalambrica
-4.-opción 2 extraer las claves de wifi manualmente
-5.-opción 3 extraer las claves de wifi automáticamente```
-hasta finalizar
+1. Download the program  
+2. Run the program  
+3. Select Option 1: Retrieve wireless network information  
+4. Select Option 2: Extract Wi-Fi passwords manually  
+5. Select Option 3: Extract Wi-Fi passwords automatically  
+6. Follow the prompts until the process is complete  
 ```
 ### Código Powershell
 - Autor : https://github.com/H3LL0WORLD
@@ -132,16 +132,13 @@ Function Get-WLAN_Profiles {
 
 ```
 
-## Expresiones de Gratitud
-
-* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales:
+## Expressions of gratitude
+* Well, I hope it is useful to you. If you have any questions, you can contact me at my social networks:
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
 - 🐤 twitter             https://twitter.com/LPericena
 
-
-* Gracias
-
+* Thank you
 ---
 Por [Pericena](https://github.com/Pericena) Donación paypal
 https://www.paypal.com/paypalme/lpericena
