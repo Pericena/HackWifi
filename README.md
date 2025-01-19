@@ -2,20 +2,28 @@
 
 ![](https://1.bp.blogspot.com/-NZFmbAF5_6U/WfMx3j17FEI/AAAAAAAAId4/uDLKER2aeV8mPgUVfuawP3_5adAj5kg5gCLcBGAs/s1600/Screenshot_4.png)
 
-The program is developed using Batch and PowerShell, designed to extract passwords and network information stored on a computer, either manually or automatically. It specifically targets passwords saved on the system. The program can be stored on a USB drive and executed directly from it, or social engineering techniques can be employed to retrieve the credentials from targeted users...
+This program, developed in Batch and PowerShell, is designed to extract Wi-Fi passwords and network information stored on a computer. It can be run directly from a USB drive or used as part of social engineering tactics to retrieve credentials from target users.
 
 - https://lpericena.blogspot.com/2017/10/wiffi.html
-- Pasos a seguir
+### Features:
 ```
-1. Download the program  
-2. Run the program  
-3. Select Option 1: Retrieve wireless network information  
-4. Select Option 2: Extract Wi-Fi passwords manually  
-5. Select Option 3: Extract Wi-Fi passwords automatically  
-6. Follow the prompts until the process is complete  
+1. Retrieve wireless network information.
+2. Extract Wi-Fi passwords manually and automatically.
+3. Compatible with Windows-based systems.
 ```
-### Código Powershell
-- Autor : https://github.com/H3LL0WORLD
+
+### How to Use:
+```
+Download the program.
+Run the program.
+Choose an option:
+Option 1: Retrieve wireless network information.
+Option 2: Extract Wi-Fi passwords manually.
+Option 3: Extract Wi-Fi passwords automatically.
+Follow the prompts to complete the process.
+```
+### Código Fuente (Source Code)
+- Autor : H3LL0WORLD
 ```
 Function Get-WLAN_Profiles {
 	param (
